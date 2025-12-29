@@ -11,7 +11,7 @@ export default function Navbar({ onToggleSidebar }) {
         ☰
       </button>
 
-      <div className="navTitle">Co-op Style Digital Banking</div>
+      <div className="navTitle">My Digital Banking</div>
 
       <button
         className="btn btnPrimary"
